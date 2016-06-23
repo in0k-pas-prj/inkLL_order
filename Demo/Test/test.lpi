@@ -45,17 +45,14 @@
       <Unit0>
         <Filename Value="test.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="test"/>
       </Unit0>
       <Unit1>
-        <Filename Value="..\..\srcExt\inkLL_core\inkLL_node.pas"/>
+        <Filename Value="..\..\srcExt\inkLL_CORE\inkLL_node.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="inkLL_node"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\..\src\inkLL_order.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="inkLL_order"/>
       </Unit2>
     </Units>
   </ProjectOptions>
@@ -89,12 +86,6 @@
         </Win32>
       </Options>
     </Linking>
-    <Other>
-      <CompilerMessages>
-        <MsgFileName Value=""/>
-      </CompilerMessages>
-      <CompilerPath Value="$(CompPath)"/>
-    </Other>
   </CompilerOptions>
   <Debugging>
     <Exceptions Count="4">
